@@ -1,0 +1,6 @@
+To test the display_stock.py, just run 
+python3 display_stock.py
+or
+python display_stock.py
+
+then go to 127.0.0.1:8050 in web browser
